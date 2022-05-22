@@ -27,6 +27,7 @@ module.exports = {
     'no-use-before-define': 'off',
     'arrow-body-style': 'off',
     '@typescript-eslint/no-use-before-define': 'off',
+    '@typescript-eslint/restrict-template-expressions': 'off',
     'import/prefer-default-export': 'off',
     'react/function-component-definition': 'off',
     'react/prop-types': 'off',
